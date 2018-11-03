@@ -1,3 +1,0 @@
-# bbt
-Bharath Brothers Group
-
